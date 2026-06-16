@@ -1,0 +1,49 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+
+# IDE Files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database Files
+*.db
+*.sqlite3
+
+# Pytest Cache
+.pytest_cache/
+
+# Mypy Cache
+.mypy_cache/
+
+# Docker
+docker-compose.override.yml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Coverage Reports
+htmlcov/
+.coverage
+
+# Build Files
+dist/
+build/
+*.egg-info/
+
+# Alembic
+alembic/versions/*.pyc
